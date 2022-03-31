@@ -54,5 +54,10 @@ namespace WindowsFormsApp1
             for (int i = 0; i < 5; i++)
                 this.Controls["label" + i].Text = teams[i].name;
         }
+
+        private void textBox13_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

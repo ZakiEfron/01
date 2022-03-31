@@ -83,3 +83,18 @@ G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\Wind
 G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.Team_Detail.resources
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.Teams_Main__2_.resources
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.Teams_main.resources
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.Visitor_Menu.resources
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\01\Xi\WindowsFormsApp01\obj\Debug\WindowsFormsApp1.pdb
