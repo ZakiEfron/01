@@ -184,7 +184,6 @@
             this.textBox43.Name = "textBox43";
             this.textBox43.Size = new System.Drawing.Size(62, 20);
             this.textBox43.TabIndex = 101;
-            this.textBox43.Text = "C";
             this.textBox43.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox44
@@ -194,7 +193,6 @@
             this.textBox44.Name = "textBox44";
             this.textBox44.Size = new System.Drawing.Size(62, 20);
             this.textBox44.TabIndex = 100;
-            this.textBox44.Text = "99";
             this.textBox44.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox45
@@ -204,7 +202,6 @@
             this.textBox45.Name = "textBox45";
             this.textBox45.Size = new System.Drawing.Size(155, 20);
             this.textBox45.TabIndex = 99;
-            this.textBox45.Text = "Florida";
             this.textBox45.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox46
@@ -214,7 +211,6 @@
             this.textBox46.Name = "textBox46";
             this.textBox46.Size = new System.Drawing.Size(155, 20);
             this.textBox46.TabIndex = 98;
-            this.textBox46.Text = "Al Horford";
             this.textBox46.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox47
@@ -232,7 +228,6 @@
             this.textBox48.Name = "textBox48";
             this.textBox48.Size = new System.Drawing.Size(62, 20);
             this.textBox48.TabIndex = 96;
-            this.textBox48.Text = "6";
             this.textBox48.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox49
@@ -242,7 +237,6 @@
             this.textBox49.Name = "textBox49";
             this.textBox49.Size = new System.Drawing.Size(155, 20);
             this.textBox49.TabIndex = 95;
-            this.textBox49.Text = "$26,540,100";
             this.textBox49.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox50
@@ -251,7 +245,6 @@
             this.textBox50.Name = "textBox50";
             this.textBox50.Size = new System.Drawing.Size(62, 20);
             this.textBox50.TabIndex = 94;
-            this.textBox50.Text = "SF";
             this.textBox50.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox51
@@ -260,7 +253,6 @@
             this.textBox51.Name = "textBox51";
             this.textBox51.Size = new System.Drawing.Size(62, 20);
             this.textBox51.TabIndex = 93;
-            this.textBox51.Text = "42";
             this.textBox51.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox52
@@ -276,7 +268,6 @@
             this.textBox53.Name = "textBox53";
             this.textBox53.Size = new System.Drawing.Size(155, 20);
             this.textBox53.TabIndex = 91;
-            this.textBox53.Text = "Gerald Green";
             this.textBox53.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox54
@@ -292,7 +283,6 @@
             this.textBox55.Name = "textBox55";
             this.textBox55.Size = new System.Drawing.Size(62, 20);
             this.textBox55.TabIndex = 89;
-            this.textBox55.Text = "5";
             this.textBox55.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox56
@@ -301,7 +291,6 @@
             this.textBox56.Name = "textBox56";
             this.textBox56.Size = new System.Drawing.Size(155, 20);
             this.textBox56.TabIndex = 88;
-            this.textBox56.Text = "$980,431";
             this.textBox56.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox15
@@ -311,7 +300,6 @@
             this.textBox15.Name = "textBox15";
             this.textBox15.Size = new System.Drawing.Size(62, 20);
             this.textBox15.TabIndex = 87;
-            this.textBox15.Text = "SF";
             this.textBox15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox16
@@ -321,7 +309,6 @@
             this.textBox16.Name = "textBox16";
             this.textBox16.Size = new System.Drawing.Size(62, 20);
             this.textBox16.TabIndex = 86;
-            this.textBox16.Text = "30";
             this.textBox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox17
@@ -331,7 +318,6 @@
             this.textBox17.Name = "textBox17";
             this.textBox17.Size = new System.Drawing.Size(155, 20);
             this.textBox17.TabIndex = 85;
-            this.textBox17.Text = "Marquette";
             this.textBox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox18
@@ -341,7 +327,6 @@
             this.textBox18.Name = "textBox18";
             this.textBox18.Size = new System.Drawing.Size(155, 20);
             this.textBox18.TabIndex = 84;
-            this.textBox18.Text = "Jae Crowder";
             this.textBox18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox19
@@ -359,7 +344,6 @@
             this.textBox20.Name = "textBox20";
             this.textBox20.Size = new System.Drawing.Size(62, 20);
             this.textBox20.TabIndex = 82;
-            this.textBox20.Text = "3";
             this.textBox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox21
@@ -369,7 +353,6 @@
             this.textBox21.Name = "textBox21";
             this.textBox21.Size = new System.Drawing.Size(155, 20);
             this.textBox21.TabIndex = 81;
-            this.textBox21.Text = "$6,286,408";
             this.textBox21.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox22
@@ -379,7 +362,6 @@
             this.textBox22.Name = "textBox22";
             this.textBox22.Size = new System.Drawing.Size(62, 20);
             this.textBox22.TabIndex = 80;
-            this.textBox22.Text = "SF";
             this.textBox22.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox23
@@ -389,7 +371,6 @@
             this.textBox23.Name = "textBox23";
             this.textBox23.Size = new System.Drawing.Size(62, 20);
             this.textBox23.TabIndex = 79;
-            this.textBox23.Text = "7";
             this.textBox23.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox24
@@ -399,7 +380,6 @@
             this.textBox24.Name = "textBox24";
             this.textBox24.Size = new System.Drawing.Size(155, 20);
             this.textBox24.TabIndex = 78;
-            this.textBox24.Text = "California";
             this.textBox24.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox25
@@ -409,7 +389,6 @@
             this.textBox25.Name = "textBox25";
             this.textBox25.Size = new System.Drawing.Size(155, 20);
             this.textBox25.TabIndex = 77;
-            this.textBox25.Text = "Jaylen Brown";
             this.textBox25.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox26
@@ -426,7 +405,6 @@
             this.textBox27.Name = "textBox27";
             this.textBox27.Size = new System.Drawing.Size(62, 20);
             this.textBox27.TabIndex = 75;
-            this.textBox27.Text = "0";
             this.textBox27.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox28
@@ -435,7 +413,6 @@
             this.textBox28.Name = "textBox28";
             this.textBox28.Size = new System.Drawing.Size(155, 20);
             this.textBox28.TabIndex = 74;
-            this.textBox28.Text = "$4,743,000";
             this.textBox28.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox1
@@ -445,7 +422,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(62, 20);
             this.textBox1.TabIndex = 73;
-            this.textBox1.Text = "SG";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox6
@@ -455,7 +431,6 @@
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(62, 20);
             this.textBox6.TabIndex = 72;
-            this.textBox6.Text = "0";
             this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox10
@@ -465,7 +440,6 @@
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(155, 20);
             this.textBox10.TabIndex = 71;
-            this.textBox10.Text = "Texas";
             this.textBox10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox11
@@ -475,8 +449,8 @@
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(155, 20);
             this.textBox11.TabIndex = 70;
-            this.textBox11.Text = "Avery Bradley";
             this.textBox11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox11.TextChanged += new System.EventHandler(this.textBox11_TextChanged);
             // 
             // textBox12
             // 
@@ -493,7 +467,6 @@
             this.textBox13.Name = "textBox13";
             this.textBox13.Size = new System.Drawing.Size(62, 20);
             this.textBox13.TabIndex = 68;
-            this.textBox13.Text = "3";
             this.textBox13.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox14
@@ -503,8 +476,8 @@
             this.textBox14.Name = "textBox14";
             this.textBox14.Size = new System.Drawing.Size(155, 20);
             this.textBox14.TabIndex = 67;
-            this.textBox14.Text = "$8,269,663";
             this.textBox14.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox14.TextChanged += new System.EventHandler(this.textBox14_TextChanged);
             // 
             // textBox3
             // 
@@ -567,7 +540,7 @@
             this.textBox29.Location = new System.Drawing.Point(21, 200);
             this.textBox29.Multiline = true;
             this.textBox29.Name = "textBox29";
-            this.textBox29.Size = new System.Drawing.Size(756, 221);
+            this.textBox29.Size = new System.Drawing.Size(756, 166);
             this.textBox29.TabIndex = 109;
             // 
             // textBox31
@@ -606,7 +579,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(177, 110);
+            this.label1.Location = new System.Drawing.Point(208, 113);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(371, 20);
             this.label1.TabIndex = 115;
@@ -638,7 +611,7 @@
             // 
             this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label32.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.label32.Location = new System.Drawing.Point(47, 25);
+            this.label32.Location = new System.Drawing.Point(86, 18);
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(221, 35);
             this.label32.TabIndex = 305;
@@ -648,7 +621,7 @@
             // 
             this.pictureBox16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox16.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox16.Image")));
-            this.pictureBox16.Location = new System.Drawing.Point(0, 2);
+            this.pictureBox16.Location = new System.Drawing.Point(12, 12);
             this.pictureBox16.Name = "pictureBox16";
             this.pictureBox16.Size = new System.Drawing.Size(42, 78);
             this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -671,9 +644,9 @@
             // 
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox1.Location = new System.Drawing.Point(42, 98);
+            this.pictureBox1.Location = new System.Drawing.Point(61, 91);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 51);
+            this.pictureBox1.Size = new System.Drawing.Size(100, 63);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 307;
             this.pictureBox1.TabStop = false;

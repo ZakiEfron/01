@@ -19,5 +19,4 @@ namespace WindowsFormsApp1
         {
             this.playerId = playerId;
         }
-    }
-}
+    }     

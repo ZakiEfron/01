@@ -129,10 +129,10 @@ namespace WindowsFormsApp1
 
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-            index = index - 1;
-            if (index < 0) index = imgList.Length - 3;
+            index = index + 1;
+            if (index + 3 > imgList.Length) index = 0;
             pictureBox2.Load("../../../pictures/" + imgList[index + 0]);
             pictureBox3.Load("../../../pictures/" + imgList[index + 1]);
             pictureBox4.Load("../../../pictures/" + imgList[index + 2]);
@@ -155,8 +155,8 @@ namespace WindowsFormsApp1
 
         private void button1_Click_2(object sender, EventArgs e)
         {
-            index = index + 1;
-            if (index + 3 > imgList.Length) index = 0;
+            index = index - 1;
+            if (index < 0) index = imgList.Length - 3;
             pictureBox2.Load("../../../pictures/" + imgList[index + 0]);
             pictureBox3.Load("../../../pictures/" + imgList[index + 1]);
             pictureBox4.Load("../../../pictures/" + imgList[index + 2]);
