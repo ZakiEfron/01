@@ -1,0 +1,85 @@
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitor_Menu.resources
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail.resources
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_Main__2_.resources
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_main.resources
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitor_Menu.resources
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Администратор\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail.resources
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_Main__2_.resources
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_main.resources
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitor_Menu.resources
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail.resources
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_Main__2_.resources
+C:\Users\neklu\Desktop\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_main.resources
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail.resources
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_Main__2_.resources
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_main.resources
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitor_Menu.resources
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Новая папка (3)\150\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\Отлично, работаем дальше\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Отлично, работаем дальше\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Отлично, работаем дальше\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail.resources
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_Main__2_.resources
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_main.resources
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitor_Menu.resources
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Отлично, работаем дальше\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
