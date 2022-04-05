@@ -37,8 +37,8 @@
             this.label21 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
+            this.label104 = new System.Windows.Forms.Label();
+            this.label103 = new System.Windows.Forms.Label();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
@@ -46,13 +46,13 @@
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.pictureBox13 = new System.Windows.Forms.PictureBox();
             this.label27 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
+            this.label102 = new System.Windows.Forms.Label();
+            this.label101 = new System.Windows.Forms.Label();
             this.textBox12 = new System.Windows.Forms.TextBox();
             this.pictureBox15 = new System.Windows.Forms.PictureBox();
             this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
+            this.label100 = new System.Windows.Forms.Label();
             this.textBox13 = new System.Windows.Forms.TextBox();
             this.textBox15 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
@@ -198,25 +198,25 @@
             this.label23.TabIndex = 219;
             this.label23.Text = "Roster      Matchups      First Lineup";
             // 
-            // label24
+            // label104
             // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label24.Location = new System.Drawing.Point(72, 351);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(80, 15);
-            this.label24.TabIndex = 218;
-            this.label24.Text = "Teams name";
+            this.label104.AutoSize = true;
+            this.label104.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label104.Location = new System.Drawing.Point(72, 351);
+            this.label104.Name = "label104";
+            this.label104.Size = new System.Drawing.Size(80, 15);
+            this.label104.TabIndex = 218;
+            this.label104.Text = "Teams name";
             // 
-            // label25
+            // label103
             // 
-            this.label25.AutoSize = true;
-            this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label25.Location = new System.Drawing.Point(72, 297);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(80, 15);
-            this.label25.TabIndex = 217;
-            this.label25.Text = "Teams name";
+            this.label103.AutoSize = true;
+            this.label103.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label103.Location = new System.Drawing.Point(72, 297);
+            this.label103.Name = "label103";
+            this.label103.Size = new System.Drawing.Size(80, 15);
+            this.label103.TabIndex = 217;
+            this.label103.Text = "Teams name";
             // 
             // pictureBox10
             // 
@@ -290,25 +290,25 @@
             this.label27.TabIndex = 209;
             this.label27.Text = "Roster      Matchups      First Lineup";
             // 
-            // label30
+            // label102
             // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label30.Location = new System.Drawing.Point(72, 244);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(80, 15);
-            this.label30.TabIndex = 208;
-            this.label30.Text = "Teams name";
+            this.label102.AutoSize = true;
+            this.label102.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label102.Location = new System.Drawing.Point(72, 244);
+            this.label102.Name = "label102";
+            this.label102.Size = new System.Drawing.Size(80, 15);
+            this.label102.TabIndex = 208;
+            this.label102.Text = "Teams name";
             // 
-            // label31
+            // label101
             // 
-            this.label31.AutoSize = true;
-            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label31.Location = new System.Drawing.Point(72, 190);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(80, 15);
-            this.label31.TabIndex = 207;
-            this.label31.Text = "Teams name";
+            this.label101.AutoSize = true;
+            this.label101.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label101.Location = new System.Drawing.Point(72, 190);
+            this.label101.Name = "label101";
+            this.label101.Size = new System.Drawing.Size(80, 15);
+            this.label101.TabIndex = 207;
+            this.label101.Text = "Teams name";
             // 
             // textBox12
             // 
@@ -329,6 +329,7 @@
             this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox15.TabIndex = 205;
             this.pictureBox15.TabStop = false;
+            this.pictureBox15.Click += new System.EventHandler(this.pictureBox15_Click);
             // 
             // label33
             // 
@@ -350,16 +351,16 @@
             this.label34.TabIndex = 203;
             this.label34.Text = "Teams name";
             // 
-            // label35
+            // label100
             // 
-            this.label35.AutoSize = true;
-            this.label35.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label35.Location = new System.Drawing.Point(72, 134);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(80, 15);
-            this.label35.TabIndex = 202;
-            this.label35.Text = "Teams name";
-            this.label35.Click += new System.EventHandler(this.label35_Click);
+            this.label100.AutoSize = true;
+            this.label100.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label100.Location = new System.Drawing.Point(72, 134);
+            this.label100.Name = "label100";
+            this.label100.Size = new System.Drawing.Size(80, 15);
+            this.label100.TabIndex = 202;
+            this.label100.Text = "Teams name";
+            this.label100.Click += new System.EventHandler(this.label35_Click);
             // 
             // textBox13
             // 
@@ -880,8 +881,8 @@
             this.Controls.Add(this.label21);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.label23);
-            this.Controls.Add(this.label24);
-            this.Controls.Add(this.label25);
+            this.Controls.Add(this.label104);
+            this.Controls.Add(this.label103);
             this.Controls.Add(this.pictureBox10);
             this.Controls.Add(this.textBox10);
             this.Controls.Add(this.pictureBox11);
@@ -889,13 +890,13 @@
             this.Controls.Add(this.textBox11);
             this.Controls.Add(this.pictureBox13);
             this.Controls.Add(this.label27);
-            this.Controls.Add(this.label30);
-            this.Controls.Add(this.label31);
+            this.Controls.Add(this.label102);
+            this.Controls.Add(this.label101);
             this.Controls.Add(this.textBox12);
             this.Controls.Add(this.pictureBox15);
             this.Controls.Add(this.label33);
             this.Controls.Add(this.label34);
-            this.Controls.Add(this.label35);
+            this.Controls.Add(this.label100);
             this.Controls.Add(this.textBox13);
             this.Controls.Add(this.textBox15);
             this.Controls.Add(this.label7);
@@ -974,8 +975,8 @@
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Label label104;
+        private System.Windows.Forms.Label label103;
         private System.Windows.Forms.PictureBox pictureBox10;
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.PictureBox pictureBox11;
@@ -983,13 +984,13 @@
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.PictureBox pictureBox13;
         private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Label label102;
+        private System.Windows.Forms.Label label101;
         private System.Windows.Forms.TextBox textBox12;
         private System.Windows.Forms.PictureBox pictureBox15;
         private System.Windows.Forms.Label label33;
         private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.Label label35;
+        private System.Windows.Forms.Label label100;
         private System.Windows.Forms.TextBox textBox13;
         private System.Windows.Forms.TextBox textBox15;
         private System.Windows.Forms.Label label7;
