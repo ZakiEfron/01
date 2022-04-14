@@ -432,6 +432,7 @@
             this.textBox6.Size = new System.Drawing.Size(62, 20);
             this.textBox6.TabIndex = 72;
             this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // textBox10
             // 
