@@ -13,6 +13,12 @@ namespace WindowsFormsApp1
     public partial class Teams_main : Form
     {
         Team[] teams = new Team[6];
+
+
+        //imgList
+        String[] imgList = new String[]
+            {"1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg", "8.jpg", "9.jpg", "10.jpg", "11.jpg", "12.jpg","13.jpg", "14.jpg", "15.jpg"};
+
         public Teams_main()
         {
             InitializeComponent();
@@ -65,8 +71,13 @@ namespace WindowsFormsApp1
             label100.Text = teams[0].name;
             for (var i = 0; i < 5; i++)
             this.Controls["label10" + i].Text = teams[i].name;
-           
-             
+
+            Logo1.Load("../../../Teams/" + imgList[0]); Logo2.Load("../../../Teams/" + imgList[1]); Logo3.Load("../../../Teams/" + imgList[2]);
+            Logo4.Load("../../../Teams/" + imgList[3]); Logo5.Load("../../../Teams/" + imgList[4]); Logo6.Load("../../../Teams/" + imgList[5]);
+            Logo7.Load("../../../Teams/" + imgList[6]); Logo8.Load("../../../Teams/" + imgList[7]); Logo9.Load("../../../Teams/" + imgList[8]);
+            Logo10.Load("../../../Teams/" + imgList[9]); Logo11.Load("../../../Teams/" + imgList[10]); Logo12.Load("../../../Teams/" + imgList[11]);
+            Logo13.Load("../../../Teams/" + imgList[12]); Logo14.Load("../../../Teams/" + imgList[13]); Logo15.Load("../../../Teams/" + imgList[15]);
+
 
         }
 
@@ -83,6 +94,11 @@ namespace WindowsFormsApp1
         private void pictureBox15_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void pictureBox13_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

@@ -39,17 +39,17 @@
             this.label23 = new System.Windows.Forms.Label();
             this.label104 = new System.Windows.Forms.Label();
             this.label103 = new System.Windows.Forms.Label();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.Logo5 = new System.Windows.Forms.PictureBox();
             this.textBox10 = new System.Windows.Forms.TextBox();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
+            this.Logo4 = new System.Windows.Forms.PictureBox();
+            this.Logo3 = new System.Windows.Forms.PictureBox();
             this.textBox11 = new System.Windows.Forms.TextBox();
-            this.pictureBox13 = new System.Windows.Forms.PictureBox();
+            this.Logo2 = new System.Windows.Forms.PictureBox();
             this.label27 = new System.Windows.Forms.Label();
             this.label102 = new System.Windows.Forms.Label();
             this.label101 = new System.Windows.Forms.Label();
             this.textBox12 = new System.Windows.Forms.TextBox();
-            this.pictureBox15 = new System.Windows.Forms.PictureBox();
+            this.Logo1 = new System.Windows.Forms.PictureBox();
             this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
             this.label100 = new System.Windows.Forms.Label();
@@ -103,11 +103,11 @@
             this.label32 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
             this.label36 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -218,16 +218,16 @@
             this.label103.TabIndex = 217;
             this.label103.Text = "Teams name";
             // 
-            // pictureBox10
+            // Logo5
             // 
-            this.pictureBox10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox10.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox10.Location = new System.Drawing.Point(13, 345);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox10.TabIndex = 216;
-            this.pictureBox10.TabStop = false;
+            this.Logo5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo5.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo5.Location = new System.Drawing.Point(13, 345);
+            this.Logo5.Name = "Logo5";
+            this.Logo5.Size = new System.Drawing.Size(53, 54);
+            this.Logo5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo5.TabIndex = 216;
+            this.Logo5.TabStop = false;
             // 
             // textBox10
             // 
@@ -238,27 +238,27 @@
             this.textBox10.Size = new System.Drawing.Size(254, 54);
             this.textBox10.TabIndex = 215;
             // 
-            // pictureBox11
+            // Logo4
             // 
-            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox11.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox11.Location = new System.Drawing.Point(13, 294);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox11.TabIndex = 214;
-            this.pictureBox11.TabStop = false;
+            this.Logo4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo4.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo4.Location = new System.Drawing.Point(13, 294);
+            this.Logo4.Name = "Logo4";
+            this.Logo4.Size = new System.Drawing.Size(53, 54);
+            this.Logo4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo4.TabIndex = 214;
+            this.Logo4.TabStop = false;
             // 
-            // pictureBox12
+            // Logo3
             // 
-            this.pictureBox12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox12.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox12.Location = new System.Drawing.Point(13, 240);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox12.TabIndex = 213;
-            this.pictureBox12.TabStop = false;
+            this.Logo3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo3.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo3.Location = new System.Drawing.Point(13, 240);
+            this.Logo3.Name = "Logo3";
+            this.Logo3.Size = new System.Drawing.Size(53, 54);
+            this.Logo3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo3.TabIndex = 213;
+            this.Logo3.TabStop = false;
             // 
             // textBox11
             // 
@@ -269,16 +269,17 @@
             this.textBox11.Size = new System.Drawing.Size(254, 54);
             this.textBox11.TabIndex = 212;
             // 
-            // pictureBox13
+            // Logo2
             // 
-            this.pictureBox13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox13.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox13.Location = new System.Drawing.Point(13, 187);
-            this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox13.TabIndex = 210;
-            this.pictureBox13.TabStop = false;
+            this.Logo2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo2.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo2.Location = new System.Drawing.Point(13, 187);
+            this.Logo2.Name = "Logo2";
+            this.Logo2.Size = new System.Drawing.Size(53, 54);
+            this.Logo2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo2.TabIndex = 210;
+            this.Logo2.TabStop = false;
+            this.Logo2.Click += new System.EventHandler(this.pictureBox13_Click);
             // 
             // label27
             // 
@@ -319,17 +320,17 @@
             this.textBox12.Size = new System.Drawing.Size(254, 54);
             this.textBox12.TabIndex = 206;
             // 
-            // pictureBox15
+            // Logo1
             // 
-            this.pictureBox15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox15.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox15.Location = new System.Drawing.Point(13, 133);
-            this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox15.TabIndex = 205;
-            this.pictureBox15.TabStop = false;
-            this.pictureBox15.Click += new System.EventHandler(this.pictureBox15_Click);
+            this.Logo1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo1.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo1.Location = new System.Drawing.Point(13, 133);
+            this.Logo1.Name = "Logo1";
+            this.Logo1.Size = new System.Drawing.Size(53, 54);
+            this.Logo1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo1.TabIndex = 205;
+            this.Logo1.TabStop = false;
+            this.Logo1.Click += new System.EventHandler(this.pictureBox15_Click);
             // 
             // label33
             // 
@@ -883,17 +884,17 @@
             this.Controls.Add(this.label23);
             this.Controls.Add(this.label104);
             this.Controls.Add(this.label103);
-            this.Controls.Add(this.pictureBox10);
+            this.Controls.Add(this.Logo5);
             this.Controls.Add(this.textBox10);
-            this.Controls.Add(this.pictureBox11);
-            this.Controls.Add(this.pictureBox12);
+            this.Controls.Add(this.Logo4);
+            this.Controls.Add(this.Logo3);
             this.Controls.Add(this.textBox11);
-            this.Controls.Add(this.pictureBox13);
+            this.Controls.Add(this.Logo2);
             this.Controls.Add(this.label27);
             this.Controls.Add(this.label102);
             this.Controls.Add(this.label101);
             this.Controls.Add(this.textBox12);
-            this.Controls.Add(this.pictureBox15);
+            this.Controls.Add(this.Logo1);
             this.Controls.Add(this.label33);
             this.Controls.Add(this.label34);
             this.Controls.Add(this.label100);
@@ -944,11 +945,11 @@
             this.Controls.Add(this.textBox16);
             this.Name = "Teams_main";
             this.Text = "Teams_main";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
@@ -977,17 +978,17 @@
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label label104;
         private System.Windows.Forms.Label label103;
-        private System.Windows.Forms.PictureBox pictureBox10;
+        private System.Windows.Forms.PictureBox Logo5;
         private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.PictureBox pictureBox11;
-        private System.Windows.Forms.PictureBox pictureBox12;
+        private System.Windows.Forms.PictureBox Logo4;
+        private System.Windows.Forms.PictureBox Logo3;
         private System.Windows.Forms.TextBox textBox11;
-        private System.Windows.Forms.PictureBox pictureBox13;
+        private System.Windows.Forms.PictureBox Logo2;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label102;
         private System.Windows.Forms.Label label101;
         private System.Windows.Forms.TextBox textBox12;
-        private System.Windows.Forms.PictureBox pictureBox15;
+        private System.Windows.Forms.PictureBox Logo1;
         private System.Windows.Forms.Label label33;
         private System.Windows.Forms.Label label34;
         private System.Windows.Forms.Label label100;
