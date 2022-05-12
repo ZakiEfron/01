@@ -58,22 +58,22 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.label109 = new System.Windows.Forms.Label();
+            this.label108 = new System.Windows.Forms.Label();
+            this.Logo10 = new System.Windows.Forms.PictureBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.Logo9 = new System.Windows.Forms.PictureBox();
+            this.Logo8 = new System.Windows.Forms.PictureBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.Logo7 = new System.Windows.Forms.PictureBox();
             this.label15 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
+            this.label107 = new System.Windows.Forms.Label();
+            this.label106 = new System.Windows.Forms.Label();
             this.textBox7 = new System.Windows.Forms.TextBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.Logo6 = new System.Windows.Forms.PictureBox();
             this.label18 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
+            this.label105 = new System.Windows.Forms.Label();
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.textBox9 = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -81,17 +81,17 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Logo15 = new System.Windows.Forms.PictureBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.Logo14 = new System.Windows.Forms.PictureBox();
+            this.Logo13 = new System.Windows.Forms.PictureBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.Logo12 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.textBox6 = new System.Windows.Forms.TextBox();
-            this.pictureBox14 = new System.Windows.Forms.PictureBox();
+            this.Logo11 = new System.Windows.Forms.PictureBox();
             this.label26 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
@@ -108,16 +108,16 @@
             ((System.ComponentModel.ISupportInitialize)(this.Logo3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Logo2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Logo1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo15)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
             this.SuspendLayout();
             // 
@@ -341,6 +341,7 @@
             this.label33.Size = new System.Drawing.Size(175, 13);
             this.label33.TabIndex = 204;
             this.label33.Text = "Roster      Matchups      First Lineup";
+            this.label33.Click += new System.EventHandler(this.label33_Click);
             // 
             // label34
             // 
@@ -412,36 +413,36 @@
             this.label9.TabIndex = 198;
             this.label9.Text = "Roster      Matchups      First Lineup";
             // 
-            // label10
+            // label109
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label10.Location = new System.Drawing.Point(332, 350);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(80, 15);
-            this.label10.TabIndex = 197;
-            this.label10.Text = "Teams name";
+            this.label109.AutoSize = true;
+            this.label109.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label109.Location = new System.Drawing.Point(332, 350);
+            this.label109.Name = "label109";
+            this.label109.Size = new System.Drawing.Size(80, 15);
+            this.label109.TabIndex = 197;
+            this.label109.Text = "Teams name";
             // 
-            // label14
+            // label108
             // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label14.Location = new System.Drawing.Point(332, 296);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(80, 15);
-            this.label14.TabIndex = 196;
-            this.label14.Text = "Teams name";
+            this.label108.AutoSize = true;
+            this.label108.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label108.Location = new System.Drawing.Point(332, 296);
+            this.label108.Name = "label108";
+            this.label108.Size = new System.Drawing.Size(80, 15);
+            this.label108.TabIndex = 196;
+            this.label108.Text = "Teams name";
             // 
-            // pictureBox3
+            // Logo10
             // 
-            this.pictureBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox3.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox3.Location = new System.Drawing.Point(273, 344);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 195;
-            this.pictureBox3.TabStop = false;
+            this.Logo10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo10.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo10.Location = new System.Drawing.Point(273, 344);
+            this.Logo10.Name = "Logo10";
+            this.Logo10.Size = new System.Drawing.Size(53, 54);
+            this.Logo10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo10.TabIndex = 195;
+            this.Logo10.TabStop = false;
             // 
             // textBox4
             // 
@@ -452,27 +453,27 @@
             this.textBox4.Size = new System.Drawing.Size(254, 54);
             this.textBox4.TabIndex = 194;
             // 
-            // pictureBox5
+            // Logo9
             // 
-            this.pictureBox5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox5.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox5.Location = new System.Drawing.Point(273, 293);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox5.TabIndex = 193;
-            this.pictureBox5.TabStop = false;
+            this.Logo9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo9.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo9.Location = new System.Drawing.Point(273, 293);
+            this.Logo9.Name = "Logo9";
+            this.Logo9.Size = new System.Drawing.Size(53, 54);
+            this.Logo9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo9.TabIndex = 193;
+            this.Logo9.TabStop = false;
             // 
-            // pictureBox7
+            // Logo8
             // 
-            this.pictureBox7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox7.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox7.Location = new System.Drawing.Point(273, 239);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox7.TabIndex = 192;
-            this.pictureBox7.TabStop = false;
+            this.Logo8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo8.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo8.Location = new System.Drawing.Point(273, 239);
+            this.Logo8.Name = "Logo8";
+            this.Logo8.Size = new System.Drawing.Size(53, 54);
+            this.Logo8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo8.TabIndex = 192;
+            this.Logo8.TabStop = false;
             // 
             // textBox5
             // 
@@ -483,16 +484,16 @@
             this.textBox5.Size = new System.Drawing.Size(254, 54);
             this.textBox5.TabIndex = 191;
             // 
-            // pictureBox8
+            // Logo7
             // 
-            this.pictureBox8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox8.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox8.Location = new System.Drawing.Point(273, 186);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox8.TabIndex = 189;
-            this.pictureBox8.TabStop = false;
+            this.Logo7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo7.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo7.Location = new System.Drawing.Point(273, 186);
+            this.Logo7.Name = "Logo7";
+            this.Logo7.Size = new System.Drawing.Size(53, 54);
+            this.Logo7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo7.TabIndex = 189;
+            this.Logo7.TabStop = false;
             // 
             // label15
             // 
@@ -504,25 +505,25 @@
             this.label15.TabIndex = 188;
             this.label15.Text = "Roster      Matchups      First Lineup";
             // 
-            // label16
+            // label107
             // 
-            this.label16.AutoSize = true;
-            this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label16.Location = new System.Drawing.Point(332, 243);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(80, 15);
-            this.label16.TabIndex = 187;
-            this.label16.Text = "Teams name";
+            this.label107.AutoSize = true;
+            this.label107.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label107.Location = new System.Drawing.Point(332, 243);
+            this.label107.Name = "label107";
+            this.label107.Size = new System.Drawing.Size(80, 15);
+            this.label107.TabIndex = 187;
+            this.label107.Text = "Teams name";
             // 
-            // label17
+            // label106
             // 
-            this.label17.AutoSize = true;
-            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label17.Location = new System.Drawing.Point(332, 189);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(80, 15);
-            this.label17.TabIndex = 186;
-            this.label17.Text = "Teams name";
+            this.label106.AutoSize = true;
+            this.label106.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label106.Location = new System.Drawing.Point(332, 189);
+            this.label106.Name = "label106";
+            this.label106.Size = new System.Drawing.Size(80, 15);
+            this.label106.TabIndex = 186;
+            this.label106.Text = "Teams name";
             // 
             // textBox7
             // 
@@ -533,16 +534,16 @@
             this.textBox7.Size = new System.Drawing.Size(254, 54);
             this.textBox7.TabIndex = 185;
             // 
-            // pictureBox9
+            // Logo6
             // 
-            this.pictureBox9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox9.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox9.Location = new System.Drawing.Point(273, 132);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox9.TabIndex = 184;
-            this.pictureBox9.TabStop = false;
+            this.Logo6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo6.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo6.Location = new System.Drawing.Point(273, 132);
+            this.Logo6.Name = "Logo6";
+            this.Logo6.Size = new System.Drawing.Size(53, 54);
+            this.Logo6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo6.TabIndex = 184;
+            this.Logo6.TabStop = false;
             // 
             // label18
             // 
@@ -564,15 +565,16 @@
             this.label19.TabIndex = 182;
             this.label19.Text = "Teams name";
             // 
-            // label20
+            // label105
             // 
-            this.label20.AutoSize = true;
-            this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label20.Location = new System.Drawing.Point(332, 133);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(80, 15);
-            this.label20.TabIndex = 181;
-            this.label20.Text = "Teams name";
+            this.label105.AutoSize = true;
+            this.label105.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label105.Location = new System.Drawing.Point(332, 133);
+            this.label105.Name = "label105";
+            this.label105.Size = new System.Drawing.Size(80, 15);
+            this.label105.TabIndex = 181;
+            this.label105.Text = "Teams name";
+            this.label105.Click += new System.EventHandler(this.label20_Click);
             // 
             // textBox8
             // 
@@ -582,6 +584,7 @@
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(254, 54);
             this.textBox8.TabIndex = 180;
+            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
             // 
             // textBox9
             // 
@@ -642,16 +645,16 @@
             this.label1.TabIndex = 175;
             this.label1.Text = "Teams name";
             // 
-            // pictureBox1
+            // Logo15
             // 
-            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox1.Location = new System.Drawing.Point(533, 344);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 174;
-            this.pictureBox1.TabStop = false;
+            this.Logo15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo15.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo15.Location = new System.Drawing.Point(533, 344);
+            this.Logo15.Name = "Logo15";
+            this.Logo15.Size = new System.Drawing.Size(53, 54);
+            this.Logo15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo15.TabIndex = 174;
+            this.Logo15.TabStop = false;
             // 
             // textBox3
             // 
@@ -662,27 +665,27 @@
             this.textBox3.Size = new System.Drawing.Size(254, 54);
             this.textBox3.TabIndex = 173;
             // 
-            // pictureBox4
+            // Logo14
             // 
-            this.pictureBox4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox4.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox4.Location = new System.Drawing.Point(533, 293);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox4.TabIndex = 172;
-            this.pictureBox4.TabStop = false;
+            this.Logo14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo14.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo14.Location = new System.Drawing.Point(533, 293);
+            this.Logo14.Name = "Logo14";
+            this.Logo14.Size = new System.Drawing.Size(53, 54);
+            this.Logo14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo14.TabIndex = 172;
+            this.Logo14.TabStop = false;
             // 
-            // pictureBox2
+            // Logo13
             // 
-            this.pictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox2.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox2.Location = new System.Drawing.Point(533, 239);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 171;
-            this.pictureBox2.TabStop = false;
+            this.Logo13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo13.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo13.Location = new System.Drawing.Point(533, 239);
+            this.Logo13.Name = "Logo13";
+            this.Logo13.Size = new System.Drawing.Size(53, 54);
+            this.Logo13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo13.TabIndex = 171;
+            this.Logo13.TabStop = false;
             // 
             // textBox2
             // 
@@ -693,16 +696,16 @@
             this.textBox2.Size = new System.Drawing.Size(254, 54);
             this.textBox2.TabIndex = 170;
             // 
-            // pictureBox6
+            // Logo12
             // 
-            this.pictureBox6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox6.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox6.Location = new System.Drawing.Point(533, 186);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox6.TabIndex = 168;
-            this.pictureBox6.TabStop = false;
+            this.Logo12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo12.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo12.Location = new System.Drawing.Point(533, 186);
+            this.Logo12.Name = "Logo12";
+            this.Logo12.Size = new System.Drawing.Size(53, 54);
+            this.Logo12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo12.TabIndex = 168;
+            this.Logo12.TabStop = false;
             // 
             // label4
             // 
@@ -743,16 +746,16 @@
             this.textBox6.Size = new System.Drawing.Size(254, 54);
             this.textBox6.TabIndex = 164;
             // 
-            // pictureBox14
+            // Logo11
             // 
-            this.pictureBox14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox14.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
-            this.pictureBox14.Location = new System.Drawing.Point(533, 132);
-            this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox14.TabIndex = 163;
-            this.pictureBox14.TabStop = false;
+            this.Logo11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Logo11.Image = global::WindowsFormsApp1.Properties.Resources.rheu;
+            this.Logo11.Location = new System.Drawing.Point(533, 132);
+            this.Logo11.Name = "Logo11";
+            this.Logo11.Size = new System.Drawing.Size(53, 54);
+            this.Logo11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Logo11.TabIndex = 163;
+            this.Logo11.TabStop = false;
             // 
             // label26
             // 
@@ -851,6 +854,7 @@
             this.button4.TabIndex = 231;
             this.button4.Text = "Back";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // label36
             // 
@@ -903,22 +907,22 @@
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label9);
-            this.Controls.Add(this.label10);
-            this.Controls.Add(this.label14);
-            this.Controls.Add(this.pictureBox3);
+            this.Controls.Add(this.label109);
+            this.Controls.Add(this.label108);
+            this.Controls.Add(this.Logo10);
             this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.pictureBox5);
-            this.Controls.Add(this.pictureBox7);
+            this.Controls.Add(this.Logo9);
+            this.Controls.Add(this.Logo8);
             this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.pictureBox8);
+            this.Controls.Add(this.Logo7);
             this.Controls.Add(this.label15);
-            this.Controls.Add(this.label16);
-            this.Controls.Add(this.label17);
+            this.Controls.Add(this.label107);
+            this.Controls.Add(this.label106);
             this.Controls.Add(this.textBox7);
-            this.Controls.Add(this.pictureBox9);
+            this.Controls.Add(this.Logo6);
             this.Controls.Add(this.label18);
             this.Controls.Add(this.label19);
-            this.Controls.Add(this.label20);
+            this.Controls.Add(this.label105);
             this.Controls.Add(this.textBox8);
             this.Controls.Add(this.textBox9);
             this.Controls.Add(this.label6);
@@ -926,17 +930,17 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.Logo15);
             this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.pictureBox4);
-            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.Logo14);
+            this.Controls.Add(this.Logo13);
             this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.pictureBox6);
+            this.Controls.Add(this.Logo12);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.textBox6);
-            this.Controls.Add(this.pictureBox14);
+            this.Controls.Add(this.Logo11);
             this.Controls.Add(this.label26);
             this.Controls.Add(this.label28);
             this.Controls.Add(this.label29);
@@ -945,21 +949,22 @@
             this.Controls.Add(this.textBox16);
             this.Name = "Teams_main";
             this.Text = "Teams_main";
+            this.Load += new System.EventHandler(this.Teams_main_Load);
             ((System.ComponentModel.ISupportInitialize)(this.Logo5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Logo4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Logo3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Logo2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Logo1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo15)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo11)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -997,22 +1002,22 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.Label label109;
+        private System.Windows.Forms.Label label108;
+        private System.Windows.Forms.PictureBox Logo10;
         private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.PictureBox Logo9;
+        private System.Windows.Forms.PictureBox Logo8;
         private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.PictureBox Logo7;
         private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label label107;
+        private System.Windows.Forms.Label label106;
         private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.PictureBox pictureBox9;
+        private System.Windows.Forms.PictureBox Logo6;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Label label105;
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.TextBox textBox9;
         private System.Windows.Forms.Label label6;
@@ -1020,17 +1025,17 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox Logo15;
         private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox Logo14;
+        private System.Windows.Forms.PictureBox Logo13;
         private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.PictureBox Logo12;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.PictureBox pictureBox14;
+        private System.Windows.Forms.PictureBox Logo11;
         private System.Windows.Forms.Label label26;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;

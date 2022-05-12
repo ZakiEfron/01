@@ -194,6 +194,7 @@ namespace WindowsFormsApp1
         {
             Form adminForm = new Visitor_Menu();
             adminForm.Show();
+            Hide();
         }
     }
 }
